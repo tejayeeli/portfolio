@@ -1,1 +1,1 @@
-# portfolio
+Welcome to the personal portfolio of Teja Yeeli – an aspiring Machine Learning Engineer dedicated to solving real-world problems with AI and data-driven solutions. This responsive and interactive website showcases Teja’s technical projects, resume, and contact information in a sleek, user-friendly design. Whether you’re here to explore innovative ML models or connect for collaboration, this portfolio is your gateway to Teja’s world of tech passion and creativity.
